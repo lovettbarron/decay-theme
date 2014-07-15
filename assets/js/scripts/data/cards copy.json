@@ -1,0 +1,66 @@
+{
+	"1":{
+		"category": "Type of Disaster",
+		"cards": [
+			{"title": "Wildfire"},
+			{"title": "Earthquake"},
+			{"title": "Power Grid Failure"},
+			{"title": "Flooding"},
+			{"title": "Drought"},
+			{"title": "Riots"},
+			{"title": "Pandemic"},
+			{"title": "Hurricane"},
+			{"title": "Catestrophic Accident"}
+			]
+		},
+	"2":{
+		"category": "City Mood",
+		"cards": [
+			{"title": "Frustration"},
+			{"title": "Fear"},
+			{"title": "Solidarity"},
+			{"title": "Determination"},
+			{"title": "Cooperation"},
+			{"title": "Resistance"},
+			{"title": "Panic"},
+			{"title": "Anger"},
+			{"title": "Chaotic"},
+			{"title": "Anarchic"}
+			]
+		},
+	"3":{
+		"category": "Design Constraint",
+		"cards": [
+			{"title": "Miniaturization"},
+			{"title": "Fits in Pocket"},
+			{"title": "3 for $1"},
+			{"title": "Free to Subscribers"},
+			{"title": "Pager Network"},
+			{"title": "Crowd Funded"},
+			{"title": "Ultralight"},
+			{"title": "One-per-community"},
+			{"title": "Military"},
+			{"title": "Edible"},
+			{"title": "Autonomous"},
+			{"title": "cloud-enabled"},
+			{"title": "Heavier than you"}
+			]
+		},
+	"4":{
+		"category": "Location",
+		"cards": [
+			{"title": "New York, NY"},
+			{"title": "San Francisco, CA"},
+			{"title": "Chicago, Il."},
+			{"title": "Washington, D.C."},
+			{"title": "Mobile Phone"},
+			{"title": "Your Neighborhood"},
+			{"title": "Border Town"},
+			{"title": "Detroit"},
+			{"title": "Small Town, USA"},
+			{"title": "Mountain Town"},
+			{"title": "Honalulu, Hawaii"},
+			{"title": "wildcard"}
+			]
+		}	
+}

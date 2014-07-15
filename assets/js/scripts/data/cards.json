@@ -1,0 +1,67 @@
+{
+	"1":{
+		"category": "Aspects of Decay",
+		"cards": [
+			{"title": "new"},
+			{"title": "in use"},
+			{"title": "recycled"},
+			{"title": "discarded or abandoned"},
+			{"title": "rotting"},
+			{"title": "decomposing"},
+			{"title": "nourishing new life"},
+			{"title": "ill "},
+			{"title": "losing effectiveness"},
+			{"title": "wildcard"},
+			{"title": "forgetting"}
+			]
+		},
+	"2":{
+		"category": "The Mood",
+		"cards": [
+			{"title": "Frustration"},
+			{"title": "Fear"},
+			{"title": "Transformation"},
+			{"title": "Joy"},
+			{"title": "Cooperation"},
+			{"title": "Resistance"},
+			{"title": "Panic"}
+			]
+		},
+	"3":{
+		"category": "Design Constraint",
+		"cards": [
+			{"title": "Miniaturization"},
+			{"title": "Fits in Pocket"},
+			{"title": "3 for $1"},
+			{"title": "one-offs"},
+			{"title": "Must Be Swallowed"},
+			{"title": "Crowd Funded"},
+			{"title": "Ultralight"},
+			{"title": "Familiar"},
+			{"title": "invisible"},
+			{"title": "edible"},
+			{"title": "autonomous"},
+			{"title": "cloud-enabled"},
+			{"title": "Heavier than you"}
+			]
+		},
+	"4":{
+		"category": "Sites",
+		"cards": [
+			{"title": "smart city"},
+			{"title": "database"},
+			{"title": "codebase"},
+			{"title": "operating system"},
+			{"title": "social networking site"},
+			{"title": "biomedical device"},
+			{"title": "wearable device"},
+			{"title": "environmental sensor"},
+			{"title": "sensor network"},
+			{"title": "automobile"},
+			{"title": "computer"},
+			{"title": "household appliance"},
+			{"title": "electricity grid"},
+			{"title": "wildcard"}
+			]
+		}	
+}
